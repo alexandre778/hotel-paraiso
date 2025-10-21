@@ -1,0 +1,13 @@
+com\hotelparaiso\repository\HospedeRepository.class
+com\hotelparaiso\controller\ReservaController.class
+com\hotelparaiso\repository\ReservaRepository.class
+com\hotelparaiso\model\Reserva.class
+com\hotelparaiso\HotelParaisoApplication.class
+com\hotelparaiso\repository\SuiteRepository.class
+com\hotelparaiso\model\Suite.class
+com\hotelparaiso\model\Hospede.class
+com\hotelparaiso\model\Servico.class
+com\hotelparaiso\controller\PageController.class
+com\hotelparaiso\repository\ServicoRepository.class
+com\hotelparaiso\model\RoomType.class
+com\hotelparaiso\service\ReservaService.class
